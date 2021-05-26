@@ -50,7 +50,7 @@ sections:
         url: 'https://www.youtube.com/channel/UCim9Ej8W5ENgdTaVzoAxXRA/'
         style: primary
         icon_class: youtube
-      - label: Get Started
+      - label: Notes
         url: /docs/getting-started
         style: secondary
 seo:
