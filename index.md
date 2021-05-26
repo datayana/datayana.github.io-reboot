@@ -24,7 +24,7 @@ sections:
             style: link
       - title: Work
         content: |
-          Traces of my own journey through the years.
+          Having fun with data.
         actions:
           - label: View Posts
             url: /blog
