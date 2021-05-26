@@ -27,7 +27,7 @@ sections:
           Having fun with data.
         actions:
           - label: Portfolio
-            url: /docs/
+            url: /docs/work
             style: link
       - title: Blog
         content: |
