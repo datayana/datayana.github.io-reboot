@@ -84,4 +84,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
-domain: 'https://datayana-reboot-dcdc9.netlify.app'
+domain: 'https://datayana.github.io'
