@@ -41,10 +41,8 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: Apologetics of Emptiness
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: |
+      A project to consolidate some Buddhist Apologetics.
     actions:
       - label: Youtube Videos
         url: 'https://www.youtube.com/channel/UCim9Ej8W5ENgdTaVzoAxXRA/'
