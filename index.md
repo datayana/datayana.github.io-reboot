@@ -46,7 +46,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: Youtube Channel
+      - label: Youtube Videos
         url: 'https://www.youtube.com/channel/UCim9Ej8W5ENgdTaVzoAxXRA/'
         style: primary
         icon_class: youtube
