@@ -15,7 +15,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Personal Study
+      - title: Study Buddhism
         content: |
           Notes and links to study buddhism.
         actions:
