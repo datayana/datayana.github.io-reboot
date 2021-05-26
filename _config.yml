@@ -59,7 +59,7 @@ footer:
     - label: LinkedIn
       url: 'https://www.linkedin.com/'
       style: icon
-      icon_class: linkedin
+      icon_class: youtube
       new_window: true
 sass:
   indentWidth: 4
