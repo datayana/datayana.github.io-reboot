@@ -6,7 +6,7 @@ sections:
     title: DataYana
     image: images/banner-temporary-total.png
     content: |
-      Apologetics and Speculation on Buddhism, written by a nerd.
+      Speculation on Buddhism, written by a nerd.
     actions:
       - label: Get Started
         url: /docs
