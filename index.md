@@ -47,7 +47,7 @@ sections:
       consectetur lobortis.
     actions:
       - label: Youtube Channel
-        url: /docs/getting-started
+        url: 'https://www.youtube.com/channel/UCim9Ej8W5ENgdTaVzoAxXRA/'
         style: primary
       - label: Get Started
         url: /docs/getting-started
