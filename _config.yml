@@ -7,7 +7,7 @@ collections:
 palette: blue
 header:
   title: DataYana
-  logo_img: images/logo.svg
+  logo_img: images/polite-squid.png
   logo_img_alt: Libris logo
   has_nav: true
   nav_links:
