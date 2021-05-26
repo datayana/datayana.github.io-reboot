@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  title: Datayana
+  title: DataYana
   logo_img: images/logo.svg
   logo_img_alt: Libris logo
   has_nav: true
