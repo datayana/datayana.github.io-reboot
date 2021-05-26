@@ -22,7 +22,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Blog
+      - title: Work
         content: |
           Traces of my own journey through the years.
         actions:
