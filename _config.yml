@@ -61,11 +61,6 @@ footer:
       style: icon
       icon_class: linkedin
       new_window: true
-    - label: GitHub
-      url: 'https://github.com/'
-      style: icon
-      icon_class: github
-      new_window: true
 sass:
   indentWidth: 4
   style: nested
