@@ -33,7 +33,7 @@ sections:
         content: |
           Traces of my own journey through the years.
         actions:
-          - label: Learn More
+          - label: View Posts
             url: /style-guide
             style: link
   - section_id: text-img
