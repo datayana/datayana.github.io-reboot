@@ -34,7 +34,7 @@ sections:
           Traces of my own journey through the years.
         actions:
           - label: View Posts
-            url: /style-guide
+            url: /blog
             style: link
   - section_id: text-img
     type: section_content
