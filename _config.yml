@@ -85,3 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
 domain: 'https://datayana.github.io'
+favicon: images/logo-temporary.png
