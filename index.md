@@ -22,7 +22,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Work
+      - title: Personal Work
         content: |
           Having fun with data.
         actions:
