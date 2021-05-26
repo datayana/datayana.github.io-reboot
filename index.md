@@ -26,7 +26,7 @@ sections:
         content: |
           Having fun with data.
         actions:
-          - label: View Posts
+          - label: Portfolio
             url: /blog
             style: link
       - title: Blog
